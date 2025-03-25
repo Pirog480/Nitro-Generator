@@ -25,11 +25,7 @@
 - Custom Thread
 - Send hit to webhook
 
-##   
 
-### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/9YGYfDZAGG
 
 ##  
 
